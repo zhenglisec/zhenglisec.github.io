@@ -24,7 +24,7 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 
 ## News
 - [07/2024] One paper “SeqMIA: Sequential-Metric Based Membership Inference Attack” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
-- - [07/2024] One paper “Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders” got accepted in [ECAI 2024](https://www.ecai2024.eu/)!
+- [07/2024] One paper “Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders” got accepted in [ECAI 2024](https://www.ecai2024.eu/)!
 - [12/2023] One paper titled “Detection and Attribution of Models Trained on Generated Data” got accepted in [ICASSP 2024](https://2024.ieeeicassp.org/)!
 - [10/2023] I have successfully passed my Ph.D. defense!
 - [09/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!
