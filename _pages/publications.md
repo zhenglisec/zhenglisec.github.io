@@ -33,6 +33,13 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2024'>2024</h2>
 
+### <span style="color:rgb(39, 117, 182)">SeqMIA: Sequential-Metric Based Membership Inference Attack</span>
+<font size="3"> Hao Li*, <b>Zheng Li*<b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
+<i>CCS 2024</i></font>
+<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
 <font size="3"> Boyang Zhang, <b>Zheng Li</b>, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang;
 <i>USENIX Security 2024</i></font>
@@ -46,6 +53,13 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
+
+<!-- ### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
+<font size="3"> Ge Han, <b>Zheng Li$\dagger$</b>, Shanqing Guo;
+<i>IJCNN 2024</i></font>
+<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a> -->
 
 <h2 id='2023'>2023</h2>
 
