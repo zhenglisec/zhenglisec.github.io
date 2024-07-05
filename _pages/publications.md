@@ -54,7 +54,7 @@ a { TEXT-DECORATION:none }
 <a href="https://github.com/SecurityNet-Research/SecurityNet" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Detection and Attribution of Models Trained on Generated Data</span>
-<font size="3"> Ge Han, Ahmed Salem, <b>Zheng Li</b>, Shanqing Guo, Michael Backes, Yang Zhang;
+<font size="3"> Ge Han, Ahmed Salem, <b>Zheng Li$\dagger$</b>, Shanqing Guo, Michael Backes, Yang Zhang;
 <i>ICASSP 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
