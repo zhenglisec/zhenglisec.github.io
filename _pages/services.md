@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## PC Member
-- 2025: PETS
+- 2025: PETS, SaTML
 - 2024: ACSAC, NeurIPS, ECCV, CVPR, MICCAI, ICISS 
 - 2023: NeurIPS, ICCV, CVPR
 
