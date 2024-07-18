@@ -4,14 +4,10 @@ permalink: /services/
 author_profile: true
 ---
 
-## PC Member
+## PC Member/Reviewer
 - 2025: PETS, SaTML
-- 2024: ACSAC, NeurIPS, ECCV, CVPR, MICCAI, ICISS 
-- 2023: NeurIPS, ICCV, CVPR
-
-## Journal Reviewer
-- 2023: TIFS, TKDE
-- 2023: TIFS, Computers&Security
+- 2024: ACSAC, NeurIPS, ECCV, CVPR, MICCAI, ICISS, TIFS, TKDE
+- 2023: NeurIPS, ICCV, CVPR, TIFS, Computers&Security
 - 2019: IEEE Access
 
 ## External Reviewer: 
