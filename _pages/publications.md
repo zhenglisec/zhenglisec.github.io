@@ -43,8 +43,8 @@ a { TEXT-DECORATION:none }
 <font size="3"> Hao Li*, <b>Zheng Li*</b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>CCS 2024</i></font>
 <a href="https://zhenglisec.github.io/publications" class="btn--paper" target="_blank">pdf</a>
-<a href="https://zhenglisec.github.io/publications" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://zhenglisec.github.io/publications" class="btn--code" target="_blank">code</a>
+<a href="https://arxiv.org/abs/2407.15098" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/AIPAG/SeqMIA" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
 <font size="3"> Boyang Zhang, <b>Zheng Li</b>, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang;
