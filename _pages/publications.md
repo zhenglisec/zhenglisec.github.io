@@ -30,21 +30,29 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
+<h2 id='2025'>2025</h2>
 
-<h2 id='2024'>2024</h2>
-
-<!-- ### <span style="color:rgb(39, 117, 182)">SeqMIA: Sequential-Metric Based Membership Inference Attack</span>
-<font size="3"> Hao Li*, <b>Zheng Li*<b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
-<i>CCS 2024</i></font>
+### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
+<font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang and Zhou Li;
+<i>PETS 2025</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a> -->
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
+
+<h2 id='2024'>2024</h2>
 ### <span style="color:rgb(39, 117, 182)">SeqMIA: Sequential-Metric Based Membership Inference Attack</span>
 <font size="3"> Hao Li*, <b>Zheng Li*</b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>CCS 2024</i></font>
 <a href="https://zhenglisec.github.io/publications" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2407.15098" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/AIPAG/SeqMIA" class="btn--code" target="_blank">code</a>
+
+### <span style="color:rgb(39, 117, 182)">BadMerging: Backdoor Attacks Against Model Merging</span>
+<font size="3"> Jinghuai Zhang, Jianfeng Chi, <b>Zheng Li</b>, Kunlin Cai, Yang Zhang, Yuan Tian;
+<i>CCS 2024</i></font>
+<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models</span>
 <font size="3"> Boyang Zhang, <b>Zheng Li</b>, Ziqing Yang, Xinlei He, Michael Backes, Mario Fritz, Yang Zhang;
