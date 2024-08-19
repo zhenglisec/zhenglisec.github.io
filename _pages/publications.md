@@ -36,7 +36,7 @@ a { TEXT-DECORATION:none }
 <font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang and Zhou Li;
 <i>PETS 2025</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
-<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 <h2 id='2024'>2024</h2>
