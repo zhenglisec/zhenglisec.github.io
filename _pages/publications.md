@@ -103,9 +103,10 @@ a { TEXT-DECORATION:none }
 <font size="3">Yingkai Dong, <b>Zheng Li</b>, Xiangtao Meng, Ning Yu, Shanqing Guo;</font>
 <a href="https://arxiv.org/abs/2408.00523" class="btn--arxiv" target="_blank">arxiv</a>
 
-### <span style="color:rgb(39, 117, 182)">Membership Inference Attack Against Masked Image Modeling</span>
+<!-- ### <span style="color:rgb(39, 117, 182)">Membership Inference Attack Against Masked Image Modeling</span>
 <font size="3"><b>Zheng Li</b>, Xinlei He, Ning Yu, Yang Zhang;</font>
-<a href="https://arxiv.org/abs/2408.06825v1" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2408.06825v1" class="btn--arxiv" target="_blank">arxiv</a> -->
+
 <!-- ### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
 <font size="3"> Ge Han, <b>Zheng Li$\dagger$</b>, Shanqing Guo;
 <i>IJCNN 2024</i></font>
