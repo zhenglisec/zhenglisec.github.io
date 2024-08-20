@@ -24,10 +24,14 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 
 ## News
 - [08/2024] One paper “Membership Inference Attacks Against In-Context Learning” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
-- [07/2024] One paper “A Comprehensive Study of Privacy Risks in Curriculum Learning” got accepted in [PETS 2025](https://petsymposium.org/cfp25.php)!
+- [08/2024] One paper “A Comprehensive Study of Privacy Risks in Curriculum Learning” got accepted in [PETS 2025](https://petsymposium.org/cfp25.php)!
+- [07/2024] I’ll join the PC of [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
+- [07/2024] I’ll join the PC of [IEEE SaTML 2025](https://satml.org/)!
 - [07/2024] One paper “BadMerging: Backdoor Attacks Against Model Merging” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [07/2024] One paper “SeqMIA: Sequential-Metric Based Membership Inference Attack” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [07/2024] One paper “Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders” got accepted in [ECAI 2024](https://www.ecai2024.eu/)!
+- [04/2024] I’ll join the PC of [PETS 2025](https://www.petsymposium.org/cfp25.php)!
+- [02/2024] I’ll join the PC of [ACSAC 2024](https://www.acsac.org/2024/submissions/papers/)!
 - [12/2023] One paper titled “Detection and Attribution of Models Trained on Generated Data” got accepted in [ICASSP 2024](https://2024.ieeeicassp.org/)!
 - [10/2023] I have successfully passed my Ph.D. defense!
 - [09/2023] One paper titled “SecurityNet: Assessing Machine Learning Vulnerabilities on Public Models” got accepted in [USENIX Security 2024](https://www.usenix.org/conference/usenixsecurity24)!

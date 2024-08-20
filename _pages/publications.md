@@ -30,6 +30,11 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
+
+- Top-tier security venues (9 papers): USENIX-Security ('24,  '23), ACM CCS ('24x3, '23, '22, '21),  NDSS ('23)
+- Ranking Statistics: CCF A: 12 papers, CCF B: 3 papers, CCF C: 4 papers
+- \*: Equal contribution; $\dagger$ Corresponding author
+
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
@@ -83,6 +88,24 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
+### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
+<font size="3"> Ge Han, <b>Zheng Li</b>, Shanqing Guo;
+<i>IJCNN 2024</i></font>
+<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
+
+### <span style="color:rgb(39, 117, 182)">Model Hijacking Attack in Federated Learning</span>
+<font size="3"><b>Zheng Li</b>, Siyuan Wu, Ruichuan Chen, Paarijaat Aditya, Istemi Ekin Akkus, Manohar Vanga, Min Zhang, Hao Li, Yang Zhang;</font>
+<a href="https://arxiv.org/abs/2408.02131" class="btn--arxiv" target="_blank">arxiv</a>
+
+### <span style="color:rgb(39, 117, 182)">Jailbreaking Text-to-Image Models with LLM-Based Agents</span>
+<font size="3">Yingkai Dong, <b>Zheng Li</b>, Xiangtao Meng, Ning Yu, Shanqing Guo;</font>
+<a href="https://arxiv.org/abs/2408.00523" class="btn--arxiv" target="_blank">arxiv</a>
+
+### <span style="color:rgb(39, 117, 182)">Membership Inference Attack Against Masked Image Modeling</span>
+<font size="3"><b>Zheng Li</b>, Xinlei He, Ning Yu, Yang Zhang;</font>
+<a href="https://arxiv.org/abs/2408.06825v1" class="btn--arxiv" target="_blank">arxiv</a>
 <!-- ### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
 <font size="3"> Ge Han, <b>Zheng Li$\dagger$</b>, Shanqing Guo;
 <i>IJCNN 2024</i></font>
@@ -134,10 +157,6 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">Generative Watermarking Against Unauthorized Subject-Driven Image Synthesis</span>
 <font size="3">Yihan Ma, Zhengyu Zhao, Xinlei He, <b>Zheng Li</b>, Michael Backes, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2306.07754" class="btn--arxiv" target="_blank">arxiv</a>
-
-### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
-<font size="3">Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;</font>
-<a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
 
 <h2 id='2022'>2022</h2>
 
