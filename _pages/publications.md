@@ -88,16 +88,20 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
-### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
+<!-- ### <span style="color:rgb(39, 117, 182)">PRJack: Pruning-Resistant Model Hijacking Attack Against Deep Learning Models</span>
 <font size="3"> Ge Han, <b>Zheng Li</b>, Shanqing Guo;
 <i>IJCNN 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a> -->
 
 ### <span style="color:rgb(39, 117, 182)">Model Hijacking Attack in Federated Learning</span>
 <font size="3"><b>Zheng Li</b>, Siyuan Wu, Ruichuan Chen, Paarijaat Aditya, Istemi Ekin Akkus, Manohar Vanga, Min Zhang, Hao Li, Yang Zhang;</font>
 <a href="https://arxiv.org/abs/2408.02131" class="btn--arxiv" target="_blank">arxiv</a>
+
+### <span style="color:rgb(39, 117, 182)">Membership Inference Attack Against Masked Image Modeling</span>
+<font size="3"><b>Zheng Li</b>, Xinlei He, Ning Yu, Yang Zhang;</font>
+<a href="https://arxiv.org/abs/2408.06825v1" class="btn--arxiv" target="_blank">arxiv</a>
 
 ### <span style="color:rgb(39, 117, 182)">Jailbreaking Text-to-Image Models with LLM-Based Agents</span>
 <font size="3">Yingkai Dong, <b>Zheng Li</b>, Xiangtao Meng, Ning Yu, Shanqing Guo;</font>
