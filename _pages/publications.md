@@ -38,7 +38,7 @@ a { TEXT-DECORATION:none }
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
-<font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang and Zhou Li;
+<font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;
 <i>PETS 2025</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
@@ -75,7 +75,7 @@ a { TEXT-DECORATION:none }
 <a href="https://github.com/SecurityNet-Research/SecurityNet" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Inside the Black Box: Detecting Data Leakage in Pre-trained Language Encoders</span>
-<font size="3"> Yuan Xin, <b>Zheng Li</b>, Ning Yu, Dingfan Chen, Mario Fritz, Michael Backes and Yang Zhang;
+<font size="3"> Yuan Xin, <b>Zheng Li</b>, Ning Yu, Dingfan Chen, Mario Fritz, Michael Backes, Yang Zhang;
 <i>ECAI 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
