@@ -32,7 +32,7 @@ a { TEXT-DECORATION:none }
 </style>
 
 - Top-tier security venues (9 papers): USENIX-Security ('24,  '23), ACM CCS ('24x3, '23, '22, '21),  NDSS ('23)
-- Ranking Statistics: CCF A: 12 papers, CCF B: 3 papers, CCF C: 4 papers
+<!-- - Ranking Statistics: 12 CCF A, 3 CCF B, CCF C: 4 papers -->
 - \*: Equal contribution; $\dagger$ Corresponding author
 
 <h2 id='2025'>2025</h2>
