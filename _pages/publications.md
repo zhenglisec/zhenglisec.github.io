@@ -33,7 +33,7 @@ a { TEXT-DECORATION:none }
 
 - Top-tier security venues (9 papers): USENIX-Security ('24,  '23), ACM CCS ('24x3, '23, '22, '21),  NDSS ('23)
 - Top-tier machine learning venues (2 papers): ICML ('23), ACL ('23)
-- $^*$: Equal contribution; $^\dagger$ Corresponding author
+- $^*$: Equal contribution; $^\dagger$: Corresponding author
 
 <h2 id='2025'>2025</h2>
 
