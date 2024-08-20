@@ -33,7 +33,7 @@ a { TEXT-DECORATION:none }
 
 - Top-tier security venues (9 papers): USENIX-Security ('24,  '23), ACM CCS ('24x3, '23, '22, '21),  NDSS ('23)
 - Top-tier machine learning venues (2 papers): ICML ('23), ACL ('23)
-- \*: Equal contribution; $\dagger$ Corresponding author
+- $^*$: Equal contribution; $^\dagger$ Corresponding author
 
 <h2 id='2025'>2025</h2>
 
@@ -47,14 +47,14 @@ a { TEXT-DECORATION:none }
 <h2 id='2024'>2024</h2>
 
 ### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against In-Context Learning</span>
-<font size="3"> Rui Wen, <b>Zheng Li$\dagger$</b>, Michael Backes, Yang Zhang;
+<font size="3"> Rui Wen, <b>Zheng Li$^\dagger$</b>, Michael Backes, Yang Zhang;
 <i>CCS 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">SeqMIA: Sequential-Metric Based Membership Inference Attack</span>
-<font size="3"> Hao Li*, <b>Zheng Li*</b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
+<font size="3"> Hao Li$^*$, <b>Zheng Li$^*$</b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>CCS 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2407.15098" class="btn--arxiv" target="_blank">arxiv</a>
@@ -82,7 +82,7 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Detection and Attribution of Models Trained on Generated Data</span>
-<font size="3"> Ge Han, Ahmed Salem, <b>Zheng Li$\dagger$</b>, Shanqing Guo, Michael Backes, Yang Zhang;
+<font size="3"> Ge Han, Ahmed Salem, <b>Zheng Li$^\dagger$</b>, Shanqing Guo, Michael Backes, Yang Zhang;
 <i>ICASSP 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
