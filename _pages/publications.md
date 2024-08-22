@@ -78,7 +78,7 @@ a { TEXT-DECORATION:none }
 <font size="3"> Yuan Xin, <b>Zheng Li</b>, Ning Yu, Dingfan Chen, Mario Fritz, Michael Backes, Yang Zhang;
 <i>ECAI 2024</i></font>
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
-<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://arxiv.org/abs/2408.11046" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Detection and Attribution of Models Trained on Generated Data</span>
