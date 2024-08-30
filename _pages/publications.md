@@ -56,7 +56,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">SeqMIA: Sequential-Metric Based Membership Inference Attack</span>
 <font size="3"> Hao Li$^*$, <b>Zheng Li$^*$</b>, Siyuan Wu, Chengrui Hu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>CCS 2024</i></font>
-<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/files/CCS24_SeqMIA.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2407.15098" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/AIPAG/SeqMIA" class="btn--code" target="_blank">code</a>
 
