@@ -63,7 +63,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">BadMerging: Backdoor Attacks Against Model Merging</span>
 <font size="3"> Jinghuai Zhang, Jianfeng Chi, <b>Zheng Li</b>, Kunlin Cai, Yang Zhang, Yuan Tian;
 <i>CCS 2024</i></font>
-<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/files/CCS24_BadMerging.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2408.07362v1" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
