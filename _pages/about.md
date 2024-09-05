@@ -23,6 +23,8 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 - [2013.09 – 2017.06] Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
 
 ## News
+- [08/2024] I'm honored to receive [ERCIM WG STM Best Ph.D. Thesis Award 2024](https://hosting.services.iit.cnr.it/STM-WG/contentpage06.html)!
+- One paper “Membership Inference Attacks Against In-Context Learning” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [08/2024] One paper “Membership Inference Attacks Against In-Context Learning” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [08/2024] One paper “A Comprehensive Study of Privacy Risks in Curriculum Learning” got accepted in [PETS 2025](https://petsymposium.org/cfp25.php)!
 - [07/2024] I’ll join the PC of [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
