@@ -124,7 +124,7 @@ a { TEXT-DECORATION:none }
 <font size="3"> <b>Zheng Li</b>;
 <i>Ph.D. Dissertation</i></font>
 <a href="https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/36610?locale=en" class="btn--paper" target="_blank">pdf</a>
-<span style="background-color: #F4624C">[ERCIM WG STM Best Ph.D. Thesis Award 2024](https://hosting.services.iit.cnr.it/STM-WG/contentpage06.html)</span>
+<span style="background-color: #FFB6C1; color: #FFFFFF">[ERCIM WG STM Best Ph.D. Thesis Award 2024](https://hosting.services.iit.cnr.it/STM-WG/contentpage06.html)</span>
 
 ### <span style="color:rgb(39, 117, 182)">UnGANable: Defending Against GAN-based Face Manipulation</span>
 <font size="3"> <b>Zheng Li</b>, Ning Yu, Ahmed Salem, Michael Backes, Mario Fritz, Yang Zhang;
