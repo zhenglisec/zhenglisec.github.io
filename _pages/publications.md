@@ -120,6 +120,12 @@ a { TEXT-DECORATION:none }
 
 <h2 id='2023'>2023</h2>
 
+### <span style="color:rgb(39, 117, 182)">On the Privacy Risks of Machine Learning Models</span>
+<font size="3"> <b>Zheng Li</b>;
+<i>Ph.D. Dissertation</i></font>
+<a href="https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/36610?locale=en" class="btn--paper" target="_blank">pdf</a>
+<span style="background-color: #F4624C">[ERCIM WG STM Best Ph.D. Thesis Award 2024](https://hosting.services.iit.cnr.it/STM-WG/contentpage06.html)</span>
+
 ### <span style="color:rgb(39, 117, 182)">UnGANable: Defending Against GAN-based Face Manipulation</span>
 <font size="3"> <b>Zheng Li</b>, Ning Yu, Ahmed Salem, Michael Backes, Mario Fritz, Yang Zhang;
 <i>USENIX Security 2023</i></font>
