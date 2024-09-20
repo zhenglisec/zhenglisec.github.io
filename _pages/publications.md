@@ -30,7 +30,8 @@ border-radius: 4px;
 a { TEXT-DECORATION:none }
 }
 </style>
-
+- $^*$: Equal contribution; $^\dagger$: Corresponding author
+  
 <h2 id='2025'>2025</h2>
 
 ### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
