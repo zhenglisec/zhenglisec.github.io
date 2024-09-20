@@ -36,11 +36,18 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
 <font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;
 <i>PETS 2025</i></font>
-<a href="https://zhenglisec.github.io/files、PETS25_CL.pdf" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/files/PETS25_CL.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2310.10124" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 <h2 id='2024'>2024</h2>
+
+### <span style="color:rgb(39, 117, 182)">ModScan: Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities</span>
+<font size="3"> Yukun Jiang, <b>Zheng Li$^\dagger$</b>, Xinyue Shen, Yugeng Liu, Michael Backes, Yang Zhang;
+<i>PETS 2025</i></font>
+<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against In-Context Learning</span>
 <font size="3"> Rui Wen, <b>Zheng Li$^\dagger$</b>, Michael Backes, Yang Zhang;
