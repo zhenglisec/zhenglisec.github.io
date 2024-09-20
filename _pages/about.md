@@ -23,6 +23,7 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 - [2013.09 – 2017.06] Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
 
 ## News
+- [09/2024] One paper “ModScan: Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities” got accepted in [EMNLP 2024](https://2024.emnlp.org/)!
 - [09/2024] I'm honored to receive [ERCIM WG STM Best Ph.D. Thesis Award 2024](https://hosting.services.iit.cnr.it/STM-WG/contentpage06.html)!
 - [08/2024] One paper “Membership Inference Attacks Against In-Context Learning” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
 - [08/2024] One paper “Membership Inference Attacks Against In-Context Learning” got accepted in [CCS 2024](https://www.sigsac.org/ccs/CCS2024/)!
