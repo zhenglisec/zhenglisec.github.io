@@ -143,7 +143,7 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2210.06998" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://arxiv.org/abs/2210.06998" class="btn--code" target="_blank">code</a>
-<a href="https://csaw24-eur-arc.sciencesconf.org/" class="btn--success" target="_blank">CSAW Europe 2024 Best Paper Finalist</a>
+<a href="https://csaw24-eur-arc.sciencesconf.org/" class="btn--success" target="_blank">Best Paper Finalist at CSAW Europe 2024</a>
 
 ### <span style="color:rgb(39, 117, 182)">Data Poisoning Attacks Against Multimodal Encoders</span>
 <font size="3">Ziqing Yang, Xinlei He, <b>Zheng Li</b>, Michael Backes, Mathias Humbert, Pascal Berrang, Yang Zhang;
