@@ -145,6 +145,13 @@ a { TEXT-DECORATION:none }
 <a href="https://arxiv.org/abs/2210.06998" class="btn--code" target="_blank">code</a>
 <a href="https://csaw24-eur-arc.sciencesconf.org/" class="btn--success" target="_blank">Best Paper Finalist at CSAW Europe 2024</a>
 
+### <span style="color:rgb(39, 117, 182)">Backdoor Attacks Against Dataset Distillation</span>
+<font size="3">Yugeng Liu, <b>Zheng Li</b>, Michael Backes, Yun Shen, Yang Zhang;
+<i>NDSS 2023</i></font>
+<a href="https://arxiv.org/abs/2301.01197" class="btn--paper" target="_blank">pdf</a>
+<a href="https://arxiv.org/abs/2301.01197" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="https://github.com/liuyugeng/baadd" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">Data Poisoning Attacks Against Multimodal Encoders</span>
 <font size="3">Ziqing Yang, Xinlei He, <b>Zheng Li</b>, Michael Backes, Mathias Humbert, Pascal Berrang, Yang Zhang;
 <i>ICML 2023</i></font>
@@ -158,13 +165,6 @@ a { TEXT-DECORATION:none }
 <a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
 <a href="https://arxiv.org/abs/2305.17826" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://github.com/RU-System-Software-and-Security/Notable" class="btn--code" target="_blank">code</a>
-
-### <span style="color:rgb(39, 117, 182)">Backdoor Attacks Against Dataset Distillation</span>
-<font size="3">Yugeng Liu, <b>Zheng Li</b>, Michael Backes, Yun Shen, Yang Zhang;
-<i>NDSS 2023</i></font>
-<a href="https://arxiv.org/abs/2301.01197" class="btn--paper" target="_blank">pdf</a>
-<a href="https://arxiv.org/abs/2301.01197" class="btn--arxiv" target="_blank">arxiv</a>
-<a href="https://github.com/liuyugeng/baadd" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">Watermarking Diffusion Model</span>
 <font size="3">Yugeng Liu, <b>Zheng Li</b>, Michael Backes, Yun Shen, Yang Zhang;</font>
