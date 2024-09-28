@@ -18,7 +18,7 @@ author_profile: true
 - 2020: RAID
 
 ## Teaching Assistant
-- Advanced Lecture：Attacks Against Machine Learning Models, Summer 2024, Saarland University
+- Advanced Lecture: Attacks Against Machine Learning Models, Summer 2024, Saarland University
 - Advanced Lecture: Machine Learning Privacy, Summer 2022, Saarland University
 - Seminar: Data-driven Understanding of the Disinformation Epidemic, Summer 2022, Saarland University
 - Seminar: Privacy of Machine Learning, Winter 2021, Saarland University
