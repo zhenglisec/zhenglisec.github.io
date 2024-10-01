@@ -46,7 +46,7 @@ a { TEXT-DECORATION:none }
 ### <span style="color:rgb(39, 117, 182)">ModScan: Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities</span>
 <font size="3"> Yukun Jiang, <b>Zheng Li$^\dagger$</b>, Xinyue Shen, Yugeng Liu, Michael Backes, Yang Zhang;
 <i>EMNLP 2024</i></font>
-<a href="https://zhenglisec.github.io/" class="btn--paper" target="_blank">pdf</a>
+<a href="https://zhenglisec.github.io/files/EMNLP24_VLMbias.pdf" class="btn--paper" target="_blank">pdf</a>
 <a href="https://zhenglisec.github.io/" class="btn--arxiv" target="_blank">arxiv</a>
 <a href="https://zhenglisec.github.io/" class="btn--code" target="_blank">code</a>
 
