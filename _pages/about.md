@@ -10,9 +10,7 @@ redirect_from:
 
 I am currently a full professor at [School of Cyber Science and Technology, Shandong University](https://cst.qd.sdu.edu.cn/). 
 
-Previously, I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/), supervised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). 
-
-In Oct 2023, I obtained my Ph.D. from [CISPA Helmholtz Center for Information Security](https://cispa.de/), under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my bachelor (2017) and master (2020) degrees from [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Shanqing Guo](https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm).
+Previously, I was a postdoc at [CISPA Helmholtz Center for Information Security](https://cispa.de/), supervised by [Dr. Yang Zhang](https://yangzhangalmo.github.io/). In Oct 2023, I obtained my Ph.D. from [CISPA Helmholtz Center for Information Security](https://cispa.de/), under the supervision of [Dr. Yang Zhang](https://yangzhangalmo.github.io/). I received my bachelor (2017) and master (2020) degrees from [Shandong University](https://www.sdu.edu.cn/) under the supervision of [Prof. Shanqing Guo](https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm).
 
 
 ## Research Interests
