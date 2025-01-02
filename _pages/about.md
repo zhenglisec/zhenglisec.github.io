@@ -17,6 +17,8 @@ Previously, I was a postdoc at [CISPA Helmholtz Center for Information Security]
 
 My research centers on Trustworthy Machine Learning (Privacy, Security, and Safety), especially analyzing machine learning model vulnerabilities, including privacy attacks (MIA and AIA), backdoors, and data poison attacks. Additionally, I work on technical solutions against unethical AI systems.
 
+<font color=red >I am looking for motivated PhD students (25 Fall) and research assistants to join my group. If you are interested, please write me an email (zhenglisec@gmail.com).</font>
+
 ## Experiences & Education 
 - [2025.01 – current] Professor at School of Cyber Science and Technology, Shandong University
 - [2023.11 – 2024.12] Postdoc at CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
