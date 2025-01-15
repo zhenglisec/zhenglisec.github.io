@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## PC Member/Reviewer
-- 2025: USENIX Security, PETS, SaTML, ICLR, EuroS&P
+- 2025: USENIX Security, PETS, SaTML, ICLR, EuroS&P, KDD
 - 2024: ACSAC, NeurIPS, ECCV, CVPR, MICCAI, ICISS, TIFS, TKDE
 - 2023: NeurIPS, ICCV, CVPR, TIFS, Computers&Security
 - 2019: IEEE Access
