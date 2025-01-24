@@ -33,6 +33,19 @@ a { TEXT-DECORATION:none }
 - $^*$: Equal contribution; $^\dagger$: Corresponding author
   
 <h2 id='2025'>2025</h2>
+### <span style="color:rgb(39, 117, 182)">Enhanced Label-Only Membership Inference Attacks with Fewer Queries</span>
+<font size="3"> Hao Li$^*$, <b>Zheng Li$^*$</b>, Siyuan Wu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
+<i>USENIX Security 2025</i></font>
+<a href="" class="btn--paper" target="_blank">pdf</a>
+<a href="" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="" class="btn--code" target="_blank">code</a>
+
+### <span style="color:rgb(39, 117, 182)">Membership Inference Attacks Against Vision-Language Models</span>
+<font size="3"> Yuke Hu, <b>Zheng Li</b>, Zhihao Liu, Yang Zhang, Zhan Qin, Kui Ren, Chun Chen;
+<i>USENIX Security 2025</i></font>
+<a href="" class="btn--paper" target="_blank">pdf</a>
+<a href="" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="" class="btn--code" target="_blank">code</a>
 
 ### <span style="color:rgb(39, 117, 182)">A Comprehensive Study of Privacy Risks in Curriculum Learning</span>
 <font size="3"> Joann Qiongna Chen, Xinlei He, <b>Zheng Li</b>, Yang Zhang, Zhou Li;
