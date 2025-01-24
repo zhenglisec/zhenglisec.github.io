@@ -33,6 +33,7 @@ a { TEXT-DECORATION:none }
 - $^*$: Equal contribution; $^\dagger$: Corresponding author
   
 <h2 id='2025'>2025</h2>
+
 ### <span style="color:rgb(39, 117, 182)">Enhanced Label-Only Membership Inference Attacks with Fewer Queries</span>
 <font size="3"> Hao Li$^*$, <b>Zheng Li$^*$</b>, Siyuan Wu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>USENIX Security 2025</i></font>
