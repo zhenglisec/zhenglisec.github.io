@@ -34,6 +34,13 @@ a { TEXT-DECORATION:none }
   
 <h2 id='2025'>2025</h2>
 
+### <span style="color:rgb(39, 117, 182)">Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models</span>
+<font size="3"> Yingkai Dong, Xiangtao Meng, Ning Yu, <b>Zheng Li$^\dagger$</b>, Shanqing Guo;
+<i>IEEE S&P 2025</i></font>
+<a href="" class="btn--paper" target="_blank">pdf</a>
+<a href="" class="btn--arxiv" target="_blank">arxiv</a>
+<a href="" class="btn--code" target="_blank">code</a>
+
 ### <span style="color:rgb(39, 117, 182)">Enhanced Label-Only Membership Inference Attacks with Fewer Queries</span>
 <font size="3"> Hao Li$^*$, <b>Zheng Li$^*$</b>, Siyuan Wu, Yutong Ye, Min Zhang, Dengguo Feng, Yang Zhang;
 <i>USENIX Security 2025</i></font>
