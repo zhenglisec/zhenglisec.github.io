@@ -28,6 +28,7 @@ My research centers on Trustworthy Machine Learning (Privacy, Security, and Safe
 - [2013.09 – 2017.06] Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
 
 ## News
+- [03/2025] One paper “Fuzz-Testing Meets LLM-Based Agents: An Automated and Efficient Framework for Jailbreaking Text-To-Image Generation Models” got accepted in [IEEE S&P 2025](https://sp2025.ieee-security.org/)!
 - [01/2025] One paper “Membership Inference Attacks Against Vision-Language Models” got accepted in [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
 - [01/2025] One paper “Enhanced Label-Only Membership Inference Attacks with Fewer Queries” got accepted in [USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25)!
 - [01/2025] I’ll join the PC of [KDD 2025](https://kdd2025.kdd.org/)!
