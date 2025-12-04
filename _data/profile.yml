@@ -38,8 +38,8 @@ short_bio: >-
   </div>
   <div class="h6 mt-5">Research Interests</div>
   <p>
-    My research focuses on Trustworthy Machine Learning across three dimensions: (1) data confidentiality – investigating privacy vulnerabilities (e.g., membership and attribute inference attacks, data reconstruction attack); 
-    (2) model robustness – analyzing security threats such as backdoor and poisoning attacks; and (3) application controllability – developing frameworks for safe and ethical AI deployment.
+    My research focuses on Trustworthy Machine Learning, with an emphasis on identifying and mitigating vulnerabilities in AI systems. 
+    I investigate privacy attacks (e.g., membership and attribute inference), security threats (e.g., backdoors and data poisoning), and develop technical defenses against unethical AI deployments.
   </p>
 
 portrait_url: /assets/images/photos/zhengli.png
