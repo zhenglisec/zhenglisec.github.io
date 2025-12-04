@@ -29,7 +29,7 @@ short_bio: >-
     I received my bachelor (2017) and master (2020) degrees from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>, supervised by <a href="https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm" target="_blank">Prof. Shanqing Guo</a>.
   </p>
   <p>
-    Research keywords include: <span class="text-hl">continual learning</span>, <span class="text-hl">few-shot learning</span>, <span class="text-hl">medical imaging</span>, and so on.
+    Research keywords include: <span class="text-hl">Machine learning</span>, <span class="text-hl">Security</span>, <span class="text-hl">Privacy</span>, <span class="text-hl">Safety</span> and so on.
   </p>
   <div class="bd-callout bd-callout-info bg-white shadow-sm">
     <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
@@ -38,8 +38,8 @@ short_bio: >-
   </div>
   <div class="h6 mt-5">Research Interests</div>
   <p>
-    My research centers on Trustworthy Machine Learning (Privacy, Security, and Safety), especially analyzing machine learning model vulnerabilities, 
-    including privacy attacks (MIA and AIA), backdoors, and data poison attacks. Additionally, I work on technical solutions against unethical AI systems.
+    My research focuses on Trustworthy Machine Learning across three dimensions: (1) data confidentiality – investigating privacy vulnerabilities (e.g., membership and attribute inference attacks, data reconstruction attack); 
+    (2) model robustness – analyzing security threats such as backdoor and poisoning attacks; and (3) application controllability – developing frameworks for safe and ethical AI deployment.
   </p>
 
 portrait_url: /assets/images/photos/zhengli.png
