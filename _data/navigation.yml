@@ -11,3 +11,5 @@ pages:
   url: /students
 - name: Services
   url: /services
+- name: 中文主页
+  url: https://faculty.sdu.edu.cn/zhenglisec/
