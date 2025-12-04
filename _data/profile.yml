@@ -6,7 +6,7 @@ positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
 #   name: Position 1 with logo
 - name: Professor
-- name: Doctoral Supervisor, National-level Young Talent
+# - name: Doctoral Supervisor, National-level Young Talent
 - name: <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>
 
 email: "zheng.li@sdu.edu.cn"
