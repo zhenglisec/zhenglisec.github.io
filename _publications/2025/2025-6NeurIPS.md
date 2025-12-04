@@ -1,6 +1,6 @@
 ---
 title:          "ErrorTrace: A Black-Box Traceability Mechanism Based on Model Family Error Space"
-date:           2025-03-03
+date:           2025-09-05
 selected:       false
 pub:            "NeurIPS 2025"
 semantic_scholar_id: 17cef55807e90fdfe03e788d762d2432ca8654c4  # use this to retrieve citation count
