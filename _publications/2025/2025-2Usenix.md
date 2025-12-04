@@ -1,6 +1,6 @@
 ---
 title:          "Membership Inference Attacks Against Vision-Language Models"
-date:           2025-01-02
+date:           2025-01-10
 selected:       false
 #type:           publication
 #tags:           ["# continual learning", "# few-shot learning"]
