@@ -1,0 +1,94 @@
+primary_name: "Zheng Li"
+secondary_name: ""
+navbar_name: "Zheng Li"
+
+positions:
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+- name: Professor
+- name: Doctoral Supervisor, National-level Young Talent
+- name: <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>
+
+email: "zheng.li@sdu.edu.cn"
+#cv_link: https://shiwonkim.github.io/uploads/CV_ShiwonKim_one_page.pdf
+gscholar: xEAaaGsAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: zhenglisec
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+#linkedin: shiwon-kim-958462173
+orcid: 0000-0002-4466-7523
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a professor at <a href="https://cst.qd.sdu.edu.cn/" target="_blank">School of Cyber Science and Technology, Shandong University</a>.
+    Previously, I was a postdoc at <a href="https://cispa.de/en" target="_blank">CISPA Helmholtz Center for Information Security</a>, supervised by <a href="https://yangzhangalmo.github.io/" target="_blank">Dr. Yang Zhang</a>.
+    In Oct 2023, I obtained my Ph.D. from <a href="https://cispa.de/en" target="_blank">CISPA Helmholtz Center for Information Security</a>, supervised by <a href="https://yangzhangalmo.github.io/" target="_blank">Dr. Yang Zhang</a>.
+    I received my bachelor (2017) and master (2020) degrees from <a href="https://www.sdu.edu.cn/" target="_blank">Shandong University</a>, supervised by <a href="https://faculty.sdu.edu.cn/guoshanqing/zh_CN/index.htm" target="_blank">Prof. Shanqing Guo</a>.
+  </p>
+  <p>
+    Research keywords include: <span class="text-hl">continual learning</span>, <span class="text-hl">few-shot learning</span>, <span class="text-hl">medical imaging</span>, and so on.
+  </p>
+  <div class="bd-callout bd-callout-info bg-white shadow-sm">
+    <i class="fas fa-info-circle" style="margin-right: 0.2em;"></i> 
+    I am looking for motivated PhD/master students (26 Fall) and research assistants to join my group.
+    If you are interested, please write me an email (zheng.li@sdu.edu.cn).
+  </div>
+  <div class="h6 mt-5">Research Interests</div>
+  <p>
+    My research centers on Trustworthy Machine Learning (Privacy, Security, and Safety), especially analyzing machine learning model vulnerabilities, 
+    including privacy attacks (MIA and AIA), backdoors, and data poison attacks. Additionally, I work on technical solutions against unethical AI systems.
+  </p>
+
+portrait_url: /assets/images/photos/zhengli.png
+# portrait_caption: >-
+#   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+
+education:
+# - name: Massachusetts Institute of Technology
+#   logo: /assets/images/badges/MIT_Social_circle.png
+#   position: >- 
+#     Department of Electrical Engineering and Computer Science <br/>
+#     Ph.D. Student
+#   date: Sep. 2024 - present
+- name: CISPA Helmholtz Center for Information Security
+  logo: /assets/images/badges/CISPA.png
+  description:
+    Ph.D. in Computer Science, CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
+  date: 2021.02-2023.10
+- name: Shandong University
+  logo: /assets/images/badges/sdu.png
+  description:
+    Master in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
+  date: 2017.09-2020.06
+- name: Shandong University
+  logo: /assets/images/badges/sdu.png
+  description:
+    Bachelor in Computer Science, Shandong University. Supervised by Prof. Shanqing Guo.
+  date: 2013.09-2017.06
+
+experience:
+- name: Shandong University
+  logo: /assets/images/badges/sdu.png
+  description:
+    Professor at School of Cyber Science and Technology, Shandong University.
+  date: 2025.01-current
+- name: CISPA Helmholtz Center for Information Security
+  logo: /assets/images/badges/CISPA.png
+  description:
+    Postdoc at CISPA Helmholtz Center for Information Security. Supervised by Dr. Yang Zhang.
+  date: 2023.11-2024.12
+- name: Bell Lab
+  logo: /assets/images/badges/bell.png
+  description:
+    Research Intern at Bell Lab.
+  date: 2022.07-2022.10
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021
