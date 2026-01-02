@@ -20,6 +20,7 @@ authors:
   - Yutong Ye
   - Min Zhang#
   - Dengguo Feng
+  - Yang Zhang
 links:
   Paper: https://www.usenix.org/system/files/usenixsecurity25-li-hao.pdf
   Code: https://github.com/AIPAG/DHAttack
